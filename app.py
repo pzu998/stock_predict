@@ -110,4 +110,4 @@ except:
     st.error(
         "エラーがおきているようです。"
     )
-st.write('Copyright ©2021 tomouki yoshikawa. all Rights Reserved. ')
+st.write('Copyright ©2021 Tomoyuki Yoshikawa. All Rights Reserved.')
